@@ -129,13 +129,16 @@ me.say_hi()
 ---
  
 ## 💡 A Random Dev Quote
- 
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
 ---
- 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shatabdi007&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+
